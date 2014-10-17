@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnc:home|Door43 (pnc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnc|d43-pnc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnc/archive/master.zip|d43-pnc.zip]]
+
+**Recent Changes**
+{{changes>ns = pnc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnc|Ethnologue data]]
+
